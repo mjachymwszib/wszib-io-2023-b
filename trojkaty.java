@@ -19,6 +19,10 @@ class Trojkaty {
         if (a == b || b == c || a == c) {
           System.out.println("Trójkąt równoramienny");
         }
+	// dodanie fukncji sprawdzajacej czy trojkat jest prostokatny
+	 if (a*a + b*b = c*c){
+	   System.out.println(" prostokatny ");
+	 }
 
          // TODO: tutaj trzeba bedzie dopisac inne przypadki
     }
